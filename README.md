@@ -9,7 +9,7 @@ Currently, I'm learning and making stuffs about :
 
 You can contract me ;] :
 
-Gmail : (pyn.zabulata@gmail.com)
+   Gmail : pyn.zabulata@gmail.com
 
 <!--
 **SteveIsReal/SteveIsReal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
