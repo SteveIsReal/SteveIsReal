@@ -1,6 +1,7 @@
 # _Hello, World!_ 🙌
 
 I'm __Steve__. Chill guy at work. 🧡
+
 Currently, I'm learning and making stuffs about :
    - 🖥️ _Web development_ (Django, React)
    - 🤖 _AI engineering_ (Training AI model)
