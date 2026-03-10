@@ -1,5 +1,12 @@
-# Hello, World!
-I'm Steve.
+# _Hello, World!_ 🙌
+
+I'm __Steve__. Chill guy at work. 🧡
+Currently, I'm learning and making stuffs about :
+   - 🖥️ _Web development_ (Django, React)
+   - 🤖 _AI engineering_ (Training AI model)
+   - 🦾 _Microcontroller_ (ESP32, Arduino)
+
+
 
 <!--
 **SteveIsReal/SteveIsReal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
