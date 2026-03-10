@@ -7,7 +7,9 @@ Currently, I'm learning and making stuffs about :
    - 🤖 _AI engineering_ (Training AI model)
    - 🦾 _Microcontroller_ (ESP32, Arduino)
 
+You can contract me ;] :
 
+Gmail : (pyn.zabulata@gmail.com)
 
 <!--
 **SteveIsReal/SteveIsReal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
